@@ -1,5 +1,9 @@
 {
   "item.enhancedtools.test": "Test",
 
+  "item.enhancedtools.high_enhancer": "high_enhancer",
+  "item.enhancedtools.middle_enhancer": "middle_enhancer",
+  "item.enhancedtools.low_enhancer": "low_enhancer",
+
   "itemGroup.enhancedtoolstab": "EnhancedTools"
 }
