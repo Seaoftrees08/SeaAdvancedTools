@@ -1,4 +1,4 @@
-# 準備中
+# EnhancedTools (for Forge)
 
 # 経緯
 A.K.氏が、「名無し氏のMOD AdvancedToolsを1.4.7以降に非公式に対応させたもの」として公開していた  
