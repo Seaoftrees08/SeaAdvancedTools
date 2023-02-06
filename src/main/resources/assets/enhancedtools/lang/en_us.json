@@ -5,5 +5,30 @@
   "item.enhancedtools.middle_enhancer": "middle_enhancer",
   "item.enhancedtools.low_enhancer": "low_enhancer",
 
+  "item.enhancedtools.enhanced_wooden_axe": "enhanced_wooden_axe",
+  "item.enhancedtools.enhanced_wooden_hoe": "enhanced_wooden_hoe",
+  "item.enhancedtools.enhanced_wooden_pickaxe": "enhanced_wooden_pickaxe",
+  "item.enhancedtools.enhanced_wooden_shovel": "enhanced_wooden_shovel",
+
+  "item.enhancedtools.enhanced_iron_axe": "enhanced_iron_axe",
+  "item.enhancedtools.enhanced_iron_hoe": "enhanced_iron_hoe",
+  "item.enhancedtools.enhanced_iron_pickaxe": "enhanced_iron_pickaxe",
+  "item.enhancedtools.enhanced_iron_shovel": "enhanced_iron_shovel",
+
+  "item.enhancedtools.enhanced_golden_axe": "enhanced_golden_axe",
+  "item.enhancedtools.enhanced_golden_hoe": "enhanced_golden_hoe",
+  "item.enhancedtools.enhanced_golden_pickaxe": "enhanced_golden_pickaxe",
+  "item.enhancedtools.enhanced_golden_shovel": "enhanced_golden_shovel",
+
+  "item.enhancedtools.enhanced_diamond_axe": "enhanced_diamond_axe",
+  "item.enhancedtools.enhanced_diamond_hoe": "enhanced_diamond_hoe",
+  "item.enhancedtools.enhanced_diamond_pickaxe": "enhanced_diamond_pickaxe",
+  "item.enhancedtools.enhanced_diamond_shovel": "enhanced_diamond_shovel",
+
+  "item.enhancedtools.enhanced_netherite_axe": "enhanced_netherite_axe",
+  "item.enhancedtools.enhanced_netherite_hoe": "enhanced_netherite_hoe",
+  "item.enhancedtools.enhanced_netherite_pickaxe": "enhanced_netherite_pickaxe",
+  "item.enhancedtools.enhanced_netherite_shovel": "enhanced_netherite_shovel",
+
   "itemGroup.enhancedtoolstab": "EnhancedTools"
 }
