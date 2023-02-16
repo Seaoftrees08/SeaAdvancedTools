@@ -8,7 +8,7 @@ public class EntoolCreativeModeTab {
     public static final CreativeModeTab ENTOOL_TAB = new CreativeModeTab("enhancedtoolstab") {
         @Override
         public ItemStack makeIcon() {
-            return new ItemStack(EntoolItem.TEST.get());
+            return new ItemStack(EntoolItem.ENHANCED_WOODEN_PICKAXE.get());
         }
     };
 

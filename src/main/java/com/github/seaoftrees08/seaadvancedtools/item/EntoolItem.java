@@ -12,8 +12,6 @@ public class EntoolItem {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, EnhancedTools.MOD_ID);
 
-    public static final RegistryObject<Item> TEST = register("name");
-
     public static final RegistryObject<Item> HIGH_ENHANCER = register("high_enhancer");
     public static final RegistryObject<Item> MIDDLE_ENHANCER = register("middle_enhancer");
     public static final RegistryObject<Item> LOW_ENHANCER = register("low_enhancer");
@@ -33,11 +31,12 @@ public class EntoolItem {
     public static final RegistryObject<Item> ENHANCED_DIAMOND_HOE = register("enhanced_diamond_hoe");
     public static final RegistryObject<Item> ENHANCED_DIAMOND_PICKAXE = register("enhanced_diamond_pickaxe");
     public static final RegistryObject<Item> ENHANCED_DIAMOND_SHOVEL = register("enhanced_diamond_shovel");
-    public static final RegistryObject<Item> ENHANCED_NETHERITE_AXE = register("enhanced_netherie_axe");
-    public static final RegistryObject<Item> ENHANCED_NETHERITE_HOE = register("enhanced_netherie_hoe");
-    public static final RegistryObject<Item> ENHANCED_NETHERITE_PICKAXE = register("enhanced_netherie_pickaxe");
-    public static final RegistryObject<Item> ENHANCED_NETHERITE_SHOVEL = register("enhanced_netherie_shovel");
+    public static final RegistryObject<Item> ENHANCED_NETHERITE_AXE = register("enhanced_netherite_axe");
+    public static final RegistryObject<Item> ENHANCED_NETHERITE_HOE = register("enhanced_netherite_hoe");
+    public static final RegistryObject<Item> ENHANCED_NETHERITE_PICKAXE = register("enhanced_netherite_pickaxe");
+    public static final RegistryObject<Item> ENHANCED_NETHERITE_SHOVEL = register("enhanced_netherite_shovel");
 
+    public static final RegistryObject<Item> SMASH_BAT = register("smash_bat");
 
 
 

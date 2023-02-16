@@ -1,6 +1,4 @@
 {
-  "item.enhancedtools.test": "Test",
-
   "item.enhancedtools.high_enhancer": "high_enhancer",
   "item.enhancedtools.middle_enhancer": "middle_enhancer",
   "item.enhancedtools.low_enhancer": "low_enhancer",
@@ -29,6 +27,8 @@
   "item.enhancedtools.enhanced_netherite_hoe": "enhanced_netherite_hoe",
   "item.enhancedtools.enhanced_netherite_pickaxe": "enhanced_netherite_pickaxe",
   "item.enhancedtools.enhanced_netherite_shovel": "enhanced_netherite_shovel",
+
+  "item.enhancedtools.smash_bat": "smash_bat",
 
   "itemGroup.enhancedtoolstab": "EnhancedTools"
 }
